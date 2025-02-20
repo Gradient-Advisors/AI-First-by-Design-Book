@@ -28,9 +28,9 @@ As you use this work or any part of it, please cite it properly.**
 To cite this book or any portion of this book, please use this bibtex entry:
 
 @book{Gupta-2025,
-    title={AI by Design: Guide to Creating High-Performance AI Initiatives},
+    title={AI First by Design},
     author={Anuj Gupta},
-    note={\url{http://www.ai-by-design-book.org}},
+    note={\url{[www.anujgupta.co/AI-first-by-design}},
     year={2025}
 }
 ```
@@ -58,7 +58,7 @@ If this work helps you in any way, show your love :heart: by putting a :star: on
 Despite our best efforts to eliminate errors, some typos, spelling mistakes or bugs may still slip through. If you encounter any, please log them using the [Issues tab] (https://github.com/anujgupta82/AI-by-Design/issues). Your feedback will help us fix them and enhance the overall quality of the book. Thank you for your support!
 
 
-### About The Author
+### More About The Author
 You can connect with me here:
 * [Linkedin](https://www.linkedin.com/in/anujgupta-82/)
 * [Twitter](https://twitter.com/anujgupta82)
