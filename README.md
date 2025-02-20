@@ -56,6 +56,9 @@ If this work helps you in any way, show your love :heart: by putting a :star: on
 ### Found a Typo, Spelling mistake or Bug
 Despite our best efforts to eliminate errors, some typos, spelling mistakes or bugs may still slip through. If you encounter any, please log them using the [Issues tab] (https://github.com/anujgupta82/AI-by-Design/issues). Your feedback will help us fix them and enhance the overall quality of the book. Thank you for your support!
 
+![figure](https://github.com/AI-First-by-Design/AI-First-by-Design-Book/blob/main/2.jpg)
+
+
 
 ### About The Author
 You can connect with me here:
