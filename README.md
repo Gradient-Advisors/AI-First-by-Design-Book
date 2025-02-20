@@ -63,10 +63,9 @@ You can connect with me here:
 * [Twitter](https://twitter.com/anujgupta82)
 * [YouTube Channel](https://www.youtube.com/@gradient_advisors)
 
-  
-<img src="https://github.com/AI-First-by-Design/AI-First-by-Design-Book/blob/main/2.jpg" alt="book cover" width="400" height="600">
 
-  
+
+<center>
 <img src="https://github.com/AI-First-by-Design/AI-First-by-Design-Book/blob/main/2.jpg" alt="book cover" style="width:40%">
-
+</center>
 
