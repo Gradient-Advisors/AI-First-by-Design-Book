@@ -62,7 +62,8 @@ You can connect with me here:
 * [Linkedin](https://www.linkedin.com/in/anujgupta-82/)
 * [Twitter](https://twitter.com/anujgupta82)
 * [YouTube Channel](https://www.youtube.com/@gradient_advisors)
+  
 
-![figure](https://github.com/AI-First-by-Design/AI-First-by-Design-Book/blob/main/2.jpg){width=20%}
+![figure](https://github.com/AI-First-by-Design/AI-First-by-Design-Book/blob/main/2.jpg){ width=20% }
 
 
