@@ -49,9 +49,9 @@ To cite this book or any portion of this book, please use this bibtex entry:
 If this work helps you in any way, show your love :heart: by putting a :star: on this project :v:. Your support keeps this project alive! ⭐ this repo and share it with your network to show your appreciation and help others discover it.
 
 
-[![GitHub stars](https://img.shields.io/github/stars/AI-First-by-Design/AI-First-by-Design?style=social)](https://github.com/AI-First-by-Design/AI-First-by-Design/stargazers)  
-[![Tweet](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2FAI-First-by-Design%2FAI-First-by-Design)](https://twitter.com/intent/tweet?text=Check%20out%20this%20awesome%20AI%20resource%20by%20%40anujgupta82%20from%20%40GradientAdvisor%3A%20https%3A%2F%2Fgithub.com%2FAI-First-by-Design%2FAI-First-by-Design)  
-[![Share on LinkedIn](https://img.shields.io/badge/Share%20on-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fgithub.com%2FAI-First-by-Design%2FAI-First-by-Design)  
+[![GitHub stars](https://img.shields.io/github/stars/AI-First-by-Design/AI-First-by-Design?style=social)](https://github.com/AI-First-by-Design/AI-First-by-Design-Book/stargazers)  
+[![Tweet](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2FAI-First-by-Design%2FAI-First-by-Design)](https://twitter.com/intent/tweet?text=Check%20out%20this%20awesome%20AI%20resource%20by%20%40anujgupta82%20from%20%40GradientAdvisor%3A%20https%3A%2F%2Fgithub.com%2FAI-First-by-Design%2FAI-First-by-Design-Book)  
+[![Share on LinkedIn](https://img.shields.io/badge/Share%20on-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fgithub.com%2FAI-First-by-Design%2FAI-First-by-Design-Book)  
 
 -----------------------------------------------------------------------------------
 ### Found a Typo, Spelling mistake or Bug
@@ -66,7 +66,7 @@ You can connect with me here:
 
 
 
-<center>
+<p align="center">
 <img src="https://github.com/AI-First-by-Design/AI-First-by-Design-Book/blob/main/2.jpg" alt="book cover" style="width:40%">
-</center>
+</p>
 
