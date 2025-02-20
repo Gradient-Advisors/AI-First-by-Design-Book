@@ -64,8 +64,9 @@ You can connect with me here:
 * [YouTube Channel](https://www.youtube.com/@gradient_advisors)
 
   
-<img src="https://github.com/AI-First-by-Design/AI-First-by-Design-Book/blob/main/2.jpg" alt="Girl in a jacket" width="500" height="600">
+<img src="https://github.com/AI-First-by-Design/AI-First-by-Design-Book/blob/main/2.jpg" alt="book cover" width="400" height="600">
 
-
+  
+<img src="https://github.com/AI-First-by-Design/AI-First-by-Design-Book/blob/main/2.jpg" alt="book cover" style="width:40%">
 
 
