@@ -62,11 +62,10 @@ You can connect with me here:
 * [Linkedin](https://www.linkedin.com/in/anujgupta-82/)
 * [Twitter](https://twitter.com/anujgupta82)
 * [YouTube Channel](https://www.youtube.com/@gradient_advisors)
+
   
+<img src="https://github.com/AI-First-by-Design/AI-First-by-Design-Book/blob/main/2.jpg" alt="Girl in a jacket" width="500" height="600">
 
-![](https://github.com/AI-First-by-Design/AI-First-by-Design-Book/blob/main/2.jpg | width=100)
-
-![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png | width=100)
 
 
 
