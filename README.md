@@ -66,5 +66,7 @@ You can connect with me here:
 
 ![](https://github.com/AI-First-by-Design/AI-First-by-Design-Book/blob/main/2.jpg | width=100)
 
+![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png | width=100)
+
 
 
