@@ -71,7 +71,7 @@ You can connect with me here:
 </p -->
 
 <p align="center">
-    <img src="https://github.com/AI-First-by-Design/AI-First-by-Design-Book/blob/main/2.jpg" width="300" style="margin-right: 10px;">
+    <img src="https://github.com/AI-First-by-Design/AI-First-by-Design-Book/blob/main/2.jpg" width="300" style="margin-right: 40px;">
     <img src="https://github.com/AI-First-by-Design/AI-First-by-Design-Book/blob/main/3.jpg" width="300">
 </p>
 
