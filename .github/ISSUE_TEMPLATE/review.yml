@@ -1,0 +1,85 @@
+name: ⭐ Book Review
+description: Rate and review the book on different aspects
+title: "[Review]: "
+labels: ["review", "feedback"]
+body:
+  - type: markdown
+    attributes:
+      value: "Thank you for taking the time to review the book! Please rate each category from **1 (Needs Improvement) to 5 (Excellent)**."
+
+  - type: dropdown
+    id: clarity
+    attributes:
+      label: 📖 Clarity of Explanation
+      description: "Was the content easy to understand?"
+      options:
+        - "1 - Hard to follow"
+        - "2 - Somewhat unclear"
+        - "3 - Neutral"
+        - "4 - Mostly clear"
+        - "5 - Very clear"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: structure
+    attributes:
+      label: 📚 Book Structure & Flow
+      description: "Was the organization of topics logical and easy to follow?"
+      options:
+        - "1 - Very disorganized"
+        - "2 - Somewhat unclear"
+        - "3 - Neutral"
+        - "4 - Well-structured"
+        - "5 - Excellent flow"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: depth
+    attributes:
+      label: 🔍 Depth of Content
+      description: "Did the book provide enough depth and insights?"
+      options:
+        - "1 - Too shallow"
+        - "2 - Needs more detail"
+        - "3 - Balanced"
+        - "4 - Detailed"
+        - "5 - Very in-depth"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: engagement
+    attributes:
+      label: ✨ Engagement & Readability
+      description: "Was the book engaging and enjoyable to read?"
+      options:
+        - "1 - Boring"
+        - "2 - Somewhat dull"
+        - "3 - Neutral"
+        - "4 - Mostly engaging"
+        - "5 - Very engaging"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: usefulness
+    attributes:
+      label: 🎯 Practical Usefulness
+      description: "Did you find the content applicable and useful?"
+      options:
+        - "1 - Not useful"
+        - "2 - Slightly useful"
+        - "3 - Neutral"
+        - "4 - Mostly useful"
+        - "5 - Very useful"
+    validations:
+      required: true
+
+  - type: textarea
+    id: additional-comments
+    attributes:
+      label: "📝 Additional Comments"
+      description: "Any other feedback or suggestions?"
+      placeholder: "Write here..."

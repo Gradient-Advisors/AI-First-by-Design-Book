@@ -1,0 +1,25 @@
+name: 📢 Feedback
+description: Provide feedback on the book – clarity, structure, or anything else!
+title: "[Feedback]: "
+labels: ["feedback"]
+body:
+  - type: textarea
+    id: feedback
+    attributes:
+      label: "What feedback do you have?"
+      description: "Tell us what you think! Is something unclear, missing, or could be improved?"
+      placeholder: "Describe your feedback here..."
+    validations:
+      required: true
+  - type: input
+    id: chapter
+    attributes:
+      label: "Which chapter/section is this about?"
+      description: "Mention the chapter or section number if applicable."
+      placeholder: "e.g., Chapter 3 - AI Ethics"
+  - type: textarea
+    id: additional-comments
+    attributes:
+      label: "Any additional comments?"
+      description: "Anything else you’d like to share?"
+      placeholder: "Additional thoughts or suggestions..."
