@@ -4,6 +4,8 @@
 
 # **AI First by Design** 
 ### Your Guide to Accelerating AI Maturity & Leading High-Performance AI Initiatives & Organizations
+by 
+[Anuj Gupta](https://www.linkedin.com/in/anujgupta-82/)
 <br>
 <p align="center">
     <img src="https://github.com/AI-First-by-Design/AI-First-by-Design-Book/blob/main/2.jpg" width="300"> &nbsp; &nbsp; &nbsp; &nbsp;
@@ -12,7 +14,7 @@
 
 <br>
 
-[Anuj Gupta](https://www.linkedin.com/in/anujgupta-82/)
+
 
 -----------------------------------------------------------------------------------
 
@@ -36,6 +38,48 @@ We define **Pragmatic AI** as _AI that translates AI efforts into  tangible busi
 
 <details>
       <summary><h3>About The Author</h3></summary>
+
+What I do: 
+
+- Fractional Head of (Gen) AI to multiple Startups & MNCs across US, Europe & India. 
+
+- AI Advisor to multiple Boards, mentoring them on various facets of (Gen) AI. 
+
+- Helping MNCs put together a strong (Gen) AI startegy & roadmap in place
+
+- Conduct Highly bespoke workshops on (Gen) AI for CXOs, Executives, Board Members, VC/PE partners. 
+
+- Mentor Global Capability Centers (GCCs) in setting up AI Center of Excellence (CoE) 
+
+My background: 
+
+- I am seasoned AI executive with 20+ years of extensive experience in spearheading core AI efforts, driving AI KPIs as Chief AI Officer.
+
+- Recently mentored a YC company build critical AI systems, demoed to Sam Altman & Vinod
+Khosla; helping YC company secure series B funding by Khosla Ventures.
+
+- Led AI efforts for one of the earliest startups to be funded for its AI-first approach, back in 2013;
+leading to acquisition by FreshWorks (Nasdaq listed) in 2016.
+
+- Authored a landmark book in AI. The book has been endorsed by globally top AI Leaders from CMU,
+UCSD, DeepMind, Google AI, Microsoft Research, Amazon AI Research, Meta, Spotify, YC startups
+including Airbnb & Sharpest Minds.
+
+    The book has already been translated in 5 languages, 260+ citations, and used by 50+ universities globally for their AI curriculum. Ranks consistently in the top 1% of AI books.
+
+    Recently invited to present our book to Prof Raj Reddy (Turing award winner, doyen of AI & Robotics at CMU) and Dr Srinivas Bangalore (Visiting professor at Columbia University, Princeton University, and Copenhagen Business School)
+
+- Incubated & spearheaded AI efforts at both startups (0-1, 1-n) as well as Fortune 50 companies, developed commercially 
+successful AI products and features leading to multi million $$ in revenue & contributing significantly to Org KPIs. 
+
+- Incubated AI teams of size 5-100 people spanning multiple geographies, managing the entire team & lifecycle of AI projects. 
+
+- Incubated & led AI efforts & built multiple AI system in NLP, Vision, Speech Data Science at both
+startups (0-1, 1-n) & Fortune 50.
+
+- Worked very closely with Founders and my C-suite peers across Business, Product, Engineering, Sales, and HR to drive KPIs as Chief AI Officer at organizational level. 
+
+
 
 You can connect with me here:
 * [Linkedin](https://www.linkedin.com/in/anujgupta-82/)
