@@ -4,7 +4,7 @@
 
 # **AI First by Design** 
 ### Your Guide to Accelerating AI Maturity & Leading High-Performance AI Initiatives & Organizations
-
+<be>
 <p align="center">
     <img src="https://github.com/AI-First-by-Design/AI-First-by-Design-Book/blob/main/2.jpg" width="300"> &nbsp; &nbsp; &nbsp; &nbsp;
     <img src="https://github.com/AI-First-by-Design/AI-First-by-Design-Book/blob/main/3.jpg" width="300">
@@ -15,6 +15,7 @@
 [Anuj Gupta](https://www.linkedin.com/in/anujgupta-82/)
 
 <!-- ### Homepage: [www.anujgupta.co/AI-first-by-design](http://www.anujgupta.co/AI-first-by-design)  -->
+## Introduction
 
 In today’s rapidly evolving AI landscape, (Generative) AI promises to revolutionize businesses like never before. While it unlocks unparalleled opportunities, it also brings complex challenges in turning this disruptive technology into successful ventures. The key is not just to navigate these challenges but to elevate your organization's AI practices toward "Pragmatic AI"—where AI's promise meets real-world impact.
 
@@ -66,7 +67,10 @@ If this work helps you in any way, show your love :heart: by putting a :star: on
 Despite our best efforts to eliminate errors, some typos, spelling mistakes or bugs may still slip through. If you encounter any, please log them using the [Issues tab] (https://github.com/anujgupta82/AI-by-Design/issues). Your feedback will help us fix them and enhance the overall quality of the book. Thank you for your support!
 
 
-### More About The Author
+### About The Author
+
+
+
 You can connect with me here:
 * [Linkedin](https://www.linkedin.com/in/anujgupta-82/)
 * [Twitter](https://twitter.com/anujgupta82)
