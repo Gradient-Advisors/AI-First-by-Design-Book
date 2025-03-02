@@ -4,6 +4,14 @@
 
 # **AI First by Design** 
 ### Your Guide to Accelerating AI Maturity & Leading High-Performance AI Initiatives & Organizations
+
+<p align="center">
+    <img src="https://github.com/AI-First-by-Design/AI-First-by-Design-Book/blob/main/2.jpg" width="300"> &nbsp; &nbsp; &nbsp; &nbsp;
+    <img src="https://github.com/AI-First-by-Design/AI-First-by-Design-Book/blob/main/3.jpg" width="300">
+</p>
+
+<br>
+
 [Anuj Gupta](https://www.linkedin.com/in/anujgupta-82/)
 
 <!-- ### Homepage: [www.anujgupta.co/AI-first-by-design](http://www.anujgupta.co/AI-first-by-design)  -->
@@ -69,10 +77,3 @@ You can connect with me here:
 <!-- p align="center">
 <img src="https://github.com/AI-First-by-Design/AI-First-by-Design-Book/blob/main/2.jpg" alt="book cover" style="width:40%">
 </p -->
-
-<p align="center">
-    <img src="https://github.com/AI-First-by-Design/AI-First-by-Design-Book/blob/main/2.jpg" width="300"> &nbsp; &nbsp; &nbsp; &nbsp;
-    <img src="https://github.com/AI-First-by-Design/AI-First-by-Design-Book/blob/main/3.jpg" width="300">
-</p>
-
-<br>
