@@ -77,6 +77,23 @@ If this work helps you in any way, show your love :heart: by putting a :star: on
 [![Share on LinkedIn](https://img.shields.io/badge/Share%20on-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fgithub.com%2FAI-First-by-Design%2FAI-First-by-Design-Book)  
 
 -----------------------------------------------------------------------------------
+<details>
+  <summary><h3>Found a Typo, Spelling Mistake, or Bug</h3></summary>
+
+Despite our best efforts to eliminate errors, some typos, spelling mistakes, or bugs may still slip through.  
+If you encounter any, please log them using the [Issues tab](https://github.com/anujgupta82/AI-by-Design/issues).  
+Your feedback will help us fix them and enhance the overall quality of the book.  
+
+Thank you for your support!  
+
+</details>
+-----------------------------------------------------------------------------------
+
+
+<!--
+
+
+
 ### Found a Typo, Spelling mistake or Bug
 Despite our best efforts to eliminate errors, some typos, spelling mistakes or bugs may still slip through. If you encounter any, please log them using the [Issues tab] (https://github.com/anujgupta82/AI-by-Design/issues). Your feedback will help us fix them and enhance the overall quality of the book. Thank you for your support!
 
@@ -95,3 +112,4 @@ Your feedback will help us fix them and enhance the overall quality of the book.
 Thank you for your support!  
 
 </details>
+-->
