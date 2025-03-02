@@ -30,6 +30,19 @@ This book can also be seen as the most comprehensive resource available on how t
 <!-- and is available as a free html book for reading at http://www.ai-by-design-book.org/ -->
 -----------------------------------------------------------------------------------
 
+### About The Author
+
+
+
+You can connect with me here:
+* [Linkedin](https://www.linkedin.com/in/anujgupta-82/)
+* [Twitter](https://twitter.com/anujgupta82)
+* [YouTube Channel](https://www.youtube.com/@gradient_advisors)
+
+<be>
+
+-----------------------------------------------------------------------------------
+
 ### Citing any material from this book
 As you use this work or any part of it, please cite it properly.**
 
@@ -53,6 +66,7 @@ To cite this book or any portion of this book, please use this bibtex entry:
 2. [Lecture Slides](http://www.deeplearningbook.org/lecture_slides.html)
 3. [External links](http://www.deeplearningbook.org/external.html)
 -->
+-----------------------------------------------------------------------------------
 
 ### 🌟 Support this work 
 If this work helps you in any way, show your love :heart: by putting a :star: on this project :v:. Your support keeps this project alive! ⭐ this repo and share it with your network to show your appreciation and help others discover it.
@@ -66,17 +80,7 @@ If this work helps you in any way, show your love :heart: by putting a :star: on
 ### Found a Typo, Spelling mistake or Bug
 Despite our best efforts to eliminate errors, some typos, spelling mistakes or bugs may still slip through. If you encounter any, please log them using the [Issues tab] (https://github.com/anujgupta82/AI-by-Design/issues). Your feedback will help us fix them and enhance the overall quality of the book. Thank you for your support!
 
-
-### About The Author
-
-
-
-You can connect with me here:
-* [Linkedin](https://www.linkedin.com/in/anujgupta-82/)
-* [Twitter](https://twitter.com/anujgupta82)
-* [YouTube Channel](https://www.youtube.com/@gradient_advisors)
-
-<br>
+-----------------------------------------------------------------------------------
 
 <!-- p align="center">
 <img src="https://github.com/AI-First-by-Design/AI-First-by-Design-Book/blob/main/2.jpg" alt="book cover" style="width:40%">
