@@ -37,7 +37,13 @@ We define **Pragmatic AI** as _AI that translates AI efforts into  tangible busi
 -----------------------------------------------------------------------------------
 
 <details>
-      <summary><h3>About The Author</h3></summary>
+  <summary><h2>Table of Contents</h2></summary>
+</details>
+
+-----------------------------------------------------------------------------------
+
+<details>
+      <summary><h2>About The Author</h2></summary>
 
 **What I do:**
 
