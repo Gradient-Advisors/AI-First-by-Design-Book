@@ -88,28 +88,3 @@ Thank you for your support!
 
 </details>
 -----------------------------------------------------------------------------------
-
-
-<!--
-
-
-
-### Found a Typo, Spelling mistake or Bug
-Despite our best efforts to eliminate errors, some typos, spelling mistakes or bugs may still slip through. If you encounter any, please log them using the [Issues tab] (https://github.com/anujgupta82/AI-by-Design/issues). Your feedback will help us fix them and enhance the overall quality of the book. Thank you for your support!
-
------------------------------------------------------------------------------------
-
-<!-- p align="center">
-<img src="https://github.com/AI-First-by-Design/AI-First-by-Design-Book/blob/main/2.jpg" alt="book cover" style="width:40%">
-</p -->
-<details>
-  <summary><h3>Found a Typo, Spelling Mistake, or Bug</h3></summary>
-
-Despite our best efforts to eliminate errors, some typos, spelling mistakes, or bugs may still slip through.  
-If you encounter any, please log them using the [Issues tab](https://github.com/anujgupta82/AI-by-Design/issues).  
-Your feedback will help us fix them and enhance the overall quality of the book.  
-
-Thank you for your support!  
-
-</details>
--->
