@@ -8,8 +8,8 @@ by
 [Anuj Gupta](https://www.linkedin.com/in/anujgupta-82/)
 <br>
 <p align="center">
-    <img src="https://github.com/AI-First-by-Design/AI-First-by-Design-Book/blob/main/2.jpg" width="300"> &nbsp; &nbsp; &nbsp; &nbsp;
-    <img src="https://github.com/AI-First-by-Design/AI-First-by-Design-Book/blob/main/3.jpg" width="300">
+    <img src="https://github.com/AI-First-by-Design/AI-First-by-Design-Book/images/blob/main/2.jpg" width="300"> &nbsp; &nbsp; &nbsp; &nbsp;
+    <img src="https://github.com/AI-First-by-Design/AI-First-by-Design-Book/images/blob/main/3.jpg" width="300">
 </p>
 
 <br>
