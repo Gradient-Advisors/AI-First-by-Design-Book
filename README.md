@@ -134,7 +134,14 @@ To cite this book or any portion of this book, please use this bibtex entry:
 <details>
       <summary><h3>🌟 Support this work</h3></summary>
 
-If this work helps you in any way, show your love :heart: by putting a :star: on this project :v:. Your support keeps this project alive! ⭐ this repo and share it with your network to show your appreciation and help others discover it.
+If this work helps you or enriches your knowledge in any way, please show your love :heart: by putting a :star: on this project :v:. Please support us by writing about this work on various social forums and share it with your network to show your appreciation and help others discover it.
+
+Feel free to tag our handles: 
+
+X / Twitter: [@anujgupta82](https://X.com/anujgupta82) [@gradientAdvisor](https://x.com/GradientAdvisor)
+Linkedin: 
+YouTube: 
+Discord: 
 
 
 [![GitHub stars](https://img.shields.io/github/stars/AI-First-by-Design/AI-First-by-Design?style=social)](https://github.com/AI-First-by-Design/AI-First-by-Design-Book/stargazers)  
