@@ -136,17 +136,23 @@ To cite this book or any portion of this book, please use this bibtex entry:
 
 If this work helps you or enriches your knowledge in any way, please show your love :heart: by putting a :star: on this project :v:. Please support us by writing about this work on various social forums and share it with your network to show your appreciation and help others discover it.
 
-Feel free to tag our handles: 
-
-X / Twitter: [@anujgupta82](https://X.com/anujgupta82) [@gradientAdvisor](https://x.com/GradientAdvisor)
-Linkedin: 
-YouTube: 
-Discord: 
-
-
 [![GitHub stars](https://img.shields.io/github/stars/AI-First-by-Design/AI-First-by-Design?style=social)](https://github.com/AI-First-by-Design/AI-First-by-Design-Book/stargazers)  
 [![Tweet](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2FAI-First-by-Design%2FAI-First-by-Design)](https://twitter.com/intent/tweet?text=Check%20out%20this%20awesome%20AI%20resource%20by%20%40anujgupta82%20from%20%40GradientAdvisor%3A%20https%3A%2F%2Fgithub.com%2FAI-First-by-Design%2FAI-First-by-Design-Book)  
 [![Share on LinkedIn](https://img.shields.io/badge/Share%20on-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fgithub.com%2FAI-First-by-Design%2FAI-First-by-Design-Book)  
+
+
+Feel free to tag our handles: 
+
+X / Twitter: [@anujgupta82](https://X.com/anujgupta82) [@gradientAdvisor](https://x.com/GradientAdvisor)
+
+Linkedin:  [anujgupta-82](https://www.linkedin.com/in/anujgupta-82/) [gradient-advisors](https://www.linkedin.com/company/gradient-advisors/)
+
+YouTube: [@gradient_advisors](https://www.youtube.com/@gradient_advisors)
+
+Discord: 
+
+Website: [Gradient Advisors](https://gradient-advisors.ai/)
+
 </details>
 
 -----------------------------------------------------------------------------------
