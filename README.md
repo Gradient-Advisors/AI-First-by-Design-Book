@@ -67,6 +67,28 @@ It is owing to this promise, every team, organization, country is after masterin
 -----------------------------------------------------------------------------------
 
 <details>
+  <summary><h2>The Central Problem with today's AI Initiatives </h2></summary>
+
+</details>
+
+-----------------------------------------------------------------------------------
+
+<details>
+  <summary><h2>The Fundamental Mistake</h2></summary>
+
+</details>
+
+-----------------------------------------------------------------------------------
+
+<details>
+  <summary><h2>Common Sense Is All We Need</h2></summary>
+
+</details>
+
+-----------------------------------------------------------------------------------
+  
+
+<details>
   <summary><h2>Table of Contents</h2></summary>
 
 <!-- # Table of Contents -->
