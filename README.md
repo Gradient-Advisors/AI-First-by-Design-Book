@@ -165,7 +165,6 @@ It is owing to this promise, every team, organization, country is after masterin
 - **Ch 31:** AI Product Manager: The Underrated Ace  
 - **Ch 32:** Publishing  
 
-
 </details>
 
 -----------------------------------------------------------------------------------
@@ -175,9 +174,9 @@ It is owing to this promise, every team, organization, country is after masterin
 
 **What I do:**
 
-- Fractional Head of (Gen) AI to multiple Startups & MNCs across US, Europe & India. 
+- On-demand Head of (Gen) AI to multiple Startups & MNCs across US, Europe & India. 
 - AI Advisor to multiple Boards, mentoring them on various facets of (Gen) AI. 
-- Helping MNCs put together a strong (Gen) AI startegy & roadmap in place
+- Helping MNCs put together a strong (Gen) AI strategy & roadmap in place
 - Conduct Highly bespoke workshops on (Gen) AI for CXOs, Executives, Board Members, VC/PE partners. 
 - Mentor Global Capability Centers (GCCs) in setting up AI Center of Excellence (CoE) 
 
@@ -189,7 +188,7 @@ It is owing to this promise, every team, organization, country is after masterin
 leading to its acquisition by FreshWorks (Nasdaq listed) in 2016.
 - Authored a landmark book in AI. The book has been [endorsed by Globally Top AI Leaders](https://www.practicalnlp.ai/testimonial#testimonials) by from CMU, UCSD, DeepMind, Google AI, Microsoft Research, Amazon AI Research, Meta, Spotify, YC startups including Airbnb & Sharpest Minds.
  
-    The book has already been translated in 5 languages, 270+ citations, and used by 50+ universities globally for their AI curriculum. Ranks consistently in the top 1% of AI books.
+    The book has already been translated in 5 languages, [270+ citations](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4105469700075134896&as_sdt=5), and used by 50+ universities globally for their AI curriculum. Ranks consistently in the top 1% of AI books.
   
     Presented our book to [Prof Raj Reddy](https://en.wikipedia.org/wiki/Raj_Reddy) (**Turing award winner, doyen of AI & Robotics at CMU**) and [Dr Srinivas Bangalore](https://sbangalore.com/) (SVP of AI  at Interactions Corporation. Visiting professor at Columbia University, Princeton University, and Copenhagen Business School)
 
