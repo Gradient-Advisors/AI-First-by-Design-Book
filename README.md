@@ -14,12 +14,45 @@ by
 
 <br>
 
-
-
 -----------------------------------------------------------------------------------
 
 <details>
+  <summary><h2>Why another book on AI</h2></summary>
+
+In today’s rapidly evolving AI landscape, (Generative) AI promises to revolutionize businesses like never before. While it unlocks unparalleled opportunities, it also brings complex challenges in turning this disruptive technology into successful AI features, products & ventures. The key to unlock these opportunities is to elevate your organization's AI practices toward "Pragmatic AI"— AI efforts that deliver real-world impact.
+
+We define **Pragmatic AI** as _AI efforts that translate into  tangible business successes,  leading to increased revenues and market dominance, rather than focusing solely on  model metrics_. 
+
+"AI First by Design" is your guide to Pragmatic AI. It is a practical resource for Executives, Leaders, Startup Founders, Partners at VC/PE firms, Managers, Engineers, Scientist focused on being part of AI initiatives that deliver real business impact. 
+
+    
+</details>
+
+-----------------------------------------------------------------------------------
+
+
+<details>
   <summary><h2>Introduction</h2></summary>
+
+Artificial Intelligence is no longer a futuristic concept—it’s the defining force shaping the next era of business, technology, and innovation. Yet, despite the hype, many organizations struggle to build AI systems that drive real impact. AI projects often stall due to unclear objectives, poor alignment with business goals, talent gaps, or an underdeveloped AI strategy.
+
+This playbook is designed to change that. It’s a no-nonsense, practical guide for leaders, product teams, and AI practitioners who want to build world-class AI systems, products, and teams—not just prototypes that never make it to production. Whether you’re a startup founder, corporate executive, or product leader, this playbook will help you navigate the complexities of AI adoption and execution.
+
+We distill lessons from over two decades of hands-on AI experience—spanning early-stage startups (0-1, 1-n) to Fortune 50 giants. Having led and advised on numerous high-impact AI initiatives, we’ve curated the most valuable insights into a strategic, results-driven approach for building AI systems that truly move the needle.
+
+This playbook serves as both a roadmap for AI adoption and a blueprint for success. It dives into the key parameters of AI readiness, addressing why AI development fundamentally differs from traditional IT/software systems—why the known playbooks for Software 1.0 fall short when building Software 2.0 (AI-driven systems).
+
+Understanding these principles is crucial for AI founders, executives, CXOs, VC partners, and senior policymakers. Organizations with leaders who grasp these concepts will achieve higher AI maturity, readiness, and a distinct competitive edge.
+
+Our hope is that this playbook becomes an invaluable resource for AI startup founders, MNC executives, AI scientists, developers, investors, and policymakers driving AI-led transformation worldwide. This isn’t just another AI book—it’s a playbook for action. By the end, you’ll have a clear roadmap to build and scale AI systems that deliver tangible business impact, innovation, and lasting competitive advantage.
+
+</details>
+
+-----------------------------------------------------------------------------------
+
+
+<details>
+  <summary><h2>Once in a Lifetime Opportunity</h2></summary>
 
 Back in the late 90s when Internet had just come, 99% of the Organizations saw Internet as just another channel of distribution. 1% of the companies saw the internet as the business itself. It is these 1% - Google, Amazon, Facebook, Apple etc that went on to create massive wealth and made the most of once in a lifetime opportunity. AI is at a similar junction. It is not just another technology. 99% of the Organizations see it as a great way to optimize their manpower & operations (which will surely help them improve their bottomline). But that not the true power of this technology. The true power of it lies in reimagining one entire business in the light of this technology. Only 1% of the companies are doing so. But it is this 1% that is going make the most of AI potential - the next set of unicorns, decacorns will come from these 1% and not the 99%.
 
@@ -29,22 +62,6 @@ Mark Cuban famously said "There are only two types of companies in this world - 
 
 It is owing to this promise, every team, organization, country is after mastering this technology. Head of States are conference chairs! Billions of dollars are being invested in this technology around the world and trillions more will be invested.
 
-</details>
-
------------------------------------------------------------------------------------
-
-<details>
-  <summary><h2>Why another book on AI</h2></summary>
-
-
-
-In today’s rapidly evolving AI landscape, (Generative) AI promises to revolutionize businesses like never before. While it unlocks unparalleled opportunities, it also brings complex challenges in turning this disruptive technology into successful AI features, products & ventures. The key is to unlock these opportunities is to elevate your organization's AI practices toward "Pragmatic AI"—where AI's promise meets real-world impact.
-
-We define **Pragmatic AI** as _AI efforts that translate into  tangible business successes,  leading to increased revenues and market dominance, rather than focusing solely on  model metrics_. 
-
-"AI First by Design" is your guide to Pragmatic AI. It is a practical resource for Executives, Leaders, Startup Founders, Partners at VC/PE firms, Managers and Builders, focused on running AI initiatives that deliver real business impact. 
-
-    
 </details>
 
 -----------------------------------------------------------------------------------
