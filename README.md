@@ -21,11 +21,14 @@ by
 <details>
   <summary><h2>Introduction</h2></summary>
 
-In today’s rapidly evolving AI landscape, (Generative) AI promises to revolutionize businesses like never before. While it unlocks unparalleled opportunities, it also brings complex challenges in turning this disruptive technology into successful AI features, products & ventures. The key is to unlock these opportunities is to elevate your organization's AI practices toward "Pragmatic AI"—where AI's promise meets real-world impact.
+Back in the late 90s when Internet had just come, 99% of the Organizations saw Internet as just another channel of distribution. 1% of the companies saw the internet as the business itself. It is these 1% - Google, Amazon, Facebook, Apple etc that went on to create massive wealth and made the most of once in a lifetime opportunity. AI is at a similar junction. It is not just another technology. 99% of the Organizations see it as a great way to optimize their manpower & operations (which will surely help them improve their bottomline). But that not the true power of this technology. The true power of it lies in reimagining one entire business in the light of this technology. Only 1% of the companies are doing so. But it is this 1% that is going make the most of AI potential - the next set of unicorns, decacorns will come from these 1% and not the 99%.
 
-We define **Pragmatic AI** as _AI efforts that translate into  tangible business successes,  leading to increased revenues and market dominance, rather than focusing solely on  model metrics_. 
+This is best summarised by Satya Nadella when he says "The core currency of any business will be its ability to harness AI and fundamentally reimagine what it does & how it operates in the light of AI."
 
-"AI First by Design" is your guide to Pragmatic AI. It is a practical resource for Executives, Leaders, Startup Founders, Partners at VC/PE firms, Managers and Builders, focused on running AI initiatives that deliver real business impact. 
+Mark Cuban famously said "There are only two types of companies in this world - Those that are great at AI and everybody else. If you are not good at AI you are going to fail. Period. End of story. And if you are a CEO, you can’t just leave it to the tech guys". He puts the onus of AI transformation directly on the CEO & his entire leadership team and not just the CTO or CIO. Why so? because unlike IT, AI is not just a better way of doing things. Its an Organization wide initative and starts with CXO team taking bold bets and reimagining their entire business in the light of this technology.
+
+It is owing to this promise, every team, organization, country is after mastering this technology. Head of States are conference chairs! Billions of dollars are being invested in this technology around the world and trillions more will be invested.
+
 </details>
 
 -----------------------------------------------------------------------------------
@@ -33,16 +36,14 @@ We define **Pragmatic AI** as _AI efforts that translate into  tangible business
 <details>
   <summary><h2>Why another book on AI</h2></summary>
 
-Back in the late 90s when Internet had just come, 99% of the Organizations saw Internet as just another channel of distribution. 1% of the companies saw the internet as the business itself. It is these 1% - Google, Amazon, Facebook, Apple etc that went on to create massive wealth and made the most of once in a lifetime opportunity. AI is at a similar junction. It is not just another technology. 99% of the Organizations see it as a great way to optimize their manpower & operations (which will surely help them improve their bottomline). But that not the true power of this technology. The true power of it lies in reimagining one entire business in the light of this technology. Only 1% of the companies are doing so. But it is this 1% that is going make the most of AI potential - the next set of unicorns, decacorns will come from these 1% and not the 99%. 
 
-This is best summarised by Satya Nadella when he says "The core currency of any business will be its ability to harness AI and fundamentally reimagine what it does & how it operates in the light of AI." 
 
-Mark Cuban famously said "There are only two types of companies in this world - Those that are great at AI and everybody else. If you are not good at AI you are going to fail. Period. End of story.  And if you are a CEO, you can’t just leave it to the tech guys". He puts the onus of AI transformation directly on the CEO & his entire leadership team and not just the CTO or CIO. Why so? because unlike IT, AI is not just a better way of doing things. Its an Organization wide initative and starts with CXO team taking bold bets and reimagining their entire business in the light of this technology. 
+In today’s rapidly evolving AI landscape, (Generative) AI promises to revolutionize businesses like never before. While it unlocks unparalleled opportunities, it also brings complex challenges in turning this disruptive technology into successful AI features, products & ventures. The key is to unlock these opportunities is to elevate your organization's AI practices toward "Pragmatic AI"—where AI's promise meets real-world impact.
 
-It is owing to this promise, every team, organization, country is after mastering this technology. Head of States are conference chairs! Billions of dollars are being invested in this technology around the world and trillions more will be invested.  
+We define **Pragmatic AI** as _AI efforts that translate into  tangible business successes,  leading to increased revenues and market dominance, rather than focusing solely on  model metrics_. 
 
-    
- 
+"AI First by Design" is your guide to Pragmatic AI. It is a practical resource for Executives, Leaders, Startup Founders, Partners at VC/PE firms, Managers and Builders, focused on running AI initiatives that deliver real business impact. 
+
     
 </details>
 
