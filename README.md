@@ -71,7 +71,7 @@ It is owing to this promise, every team, organization, country is after masterin
 
 <!-- # Table of Contents -->
 
-## <div align="center">Section 1: Introduction</div>  
+### <div align="center">Section 1: Introduction</div>  
 - **Ch 1:** Once in a Lifetime Opportunity  
 - **Ch 2:** The Fundamental Mistake  
 
