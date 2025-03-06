@@ -69,10 +69,10 @@ It is owing to this promise, every team, organization, country is after masterin
 <details>
   <summary><h2>Table of Contents</h2></summary>
 
-# Table of Contents
+<!-- # Table of Contents -->
 
 ## Section 1: Introduction  
-- **Ch 1:** Once in a Lifetime Opportunity  
+- **Ch 1:** Central Issue with AI Initiative  
 - **Ch 2:** The Fundamental Mistake  
 
 ## Section 2: Technology  
