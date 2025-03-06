@@ -68,6 +68,104 @@ It is owing to this promise, every team, organization, country is after masterin
 
 <details>
   <summary><h2>Table of Contents</h2></summary>
+
+# Table of Contents
+
+## Section 1: Introduction  
+- **Ch 1:** Once in a Lifetime Opportunity  
+- **Ch 2:** The Fundamental Mistake  
+
+## Section 2: Technology  
+- **Ch 3:** Human Brain Analogy is Super Misleading  
+  - Incremental Learning  
+  - Explainability  
+- **Ch 4:** AI ≠ Replace Humans?  
+  - AI = Augmented Intelligence rather than Artificial Intelligence  
+- **Ch 5:** The Right Methodology to Develop AI Systems  
+  - Capability Curve for AI Systems vs IT Systems  
+  - Make it Work, Make it Better  
+- **Ch 6:** AI Won’t Be Error-Free Anytime Soon  
+  - Mistakes are Part and Parcel of AI Systems  
+- **Ch 7:** AI Problems Can Be Solved in Multiple Ways  
+  - AI Teams Do Not Know the Right Path Upfront  
+  - Finding the Path Involves Many Experiments  
+  - Solutions Differ Based on the Problem and Dataset  
+- **Ch 8:** AI Solutions Are Not Incremental  
+  - Going from 85% to 90% Accuracy May Require Starting Over  
+- **Ch 9:** Updating AI Models ≠ Old Learnings + New Learnings  
+  - Can Lead to:  
+    - Incorrect Predictions on Previously Correct Data Points  
+    - Catastrophic Forgetting  
+- **Ch 10:** AI Model Quality Mirrors Training Data Quality  
+  - Unseen Data Examples  
+- **Ch 11:** Drift  
+  - Data Drift vs Concept Drift  
+- **Ch 12:** Quantifying Data Needs is Hard  
+  - Deep Learning is a Data Guzzler  
+  - Transfer Learning Doesn’t Work in All Scenarios  
+- **Ch 13:** Data Quality Matters  
+  - Can't Run Fighter Jets on Crude Oil!  
+  - Quantifying the Impact of Bad Data is Tough  
+- **Ch 14:** AI Ops is Not DevOps  
+  - Why Deploying and Maintaining Models is Much More Nuanced  
+
+## Section 3: Processes  
+- **Ch 15:** AI is Not a Sledgehammer  
+  - Finding the Right Use Cases for AI  
+- **Ch 16:** Defining the Right Metrics to Measure Success  
+  - AI Metrics  
+  - Business Metrics  
+  - Synchrony Between AI & Business Metrics  
+- **Ch 17:** Data Labeling  
+  - AI is Only as Good as Its Data Labelers  
+- **Ch 18:** Testing AI Systems  
+  - “Incorrect” Output  
+- **Ch 19:** Agile is Unfit for Managing AI Development  
+  - AI Development is Highly Unpredictable  
+- **Ch 20:** Data Collection  
+  - Building Nuclear Systems Requires Rigorous Data Collection, Cleaning, and Enrichment  
+- **Ch 21:** The Safety Net of AI Systems  
+  - Control Loop  
+  - Feedback Loop  
+  - Human in the Loop  
+  - UX for AI  
+  - Handling Errors and Failures Gracefully  
+  - Introducing AI to Users Gradually  
+  - With AI, Always Better to Under-Promise than Over-Promise  
+- **Ch 22:** Explainability and Trust  
+
+## Section 4: Economics of AI  
+- **Ch 23:** The Business of AI is Far from SaaS  
+  - Why Profit Margins in AI (~40%) are Much Lower than SaaS (~85%)  
+- **Ch 24:** Why AI Endeavors Are Still Expensive  
+- **Ch 25:** Crucial to Quickly Find the Market's Price for AI  
+  - Customers Pay for Value, Not AI  
+- **Ch 26:** Accuracy Obsession Early On is Counterproductive  
+  - When is Improving AI Systems Incrementally (1-2%) Worth It?  
+- **Ch 27:** How is GPU Cost Likely to Play Out in the Future?  
+
+## Section 5: People  
+- **Ch 28:** Stakeholder Management  
+  - Do You Even Need AI?  
+  - Ill-Formed Problems  
+  - Capability Curve for AI Systems  
+  - Make it Work, Make it Better  
+  - Who is the Best Person to Manage Stakeholders?  
+- **Ch 29:** The Right Hiring Strategy for AI  
+  - Generalist vs Specialist  
+  - Does Hiring PhDs Give You an Edge?  
+  - When is the Right Time to Hire a Head of AI?  
+  - What Should the Head of AI Be—PhD or MBA?  
+  - Bilingual AI Leaders  
+- **Ch 30:** Managing Individual Contributors (ICs)  
+  - Occam's Razor  
+  - Falling in Love with the Solution, Not the Problem  
+  - AI System >> AI Model  
+  - Clues Lie in Mistakes  
+- **Ch 31:** AI Product Manager: The Underrated Ace  
+- **Ch 32:** Publishing?  
+
+
 </details>
 
 -----------------------------------------------------------------------------------
