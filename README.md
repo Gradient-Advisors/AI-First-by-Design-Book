@@ -36,11 +36,11 @@ We define **Pragmatic AI** as _AI efforts that translate into  tangible business
 
 Artificial Intelligence is no longer a futuristic concept—it’s the defining force shaping the next era of business, technology, and innovation. Yet, despite the hype, many organizations struggle to build AI systems that drive real impact. AI projects often stall due to unclear objectives, poor alignment with business goals, talent gaps, or an underdeveloped AI strategy.
 
-This playbook is designed to change that. It’s a no-nonsense, practical guide for leaders, product teams, and AI practitioners who want to build world-class AI systems, products, and teams—not just prototypes that never make it to production. Whether you’re a startup founder, corporate executive, or product leader, this playbook will help you navigate the complexities of AI adoption and execution.
+This playbook is designed to change that. It’s a no-nonsense, practical guide for leaders, Startup founders, and AI practitioners who want to build world-class AI systems, products, and teams—not just PoCs (Proof of Concepts) or prototypes that never make it to production. Whether you’re a startup founder, corporate executive, or VC partner, this playbook will help you navigate the complexities of AI adoption and execution.
 
-We distill lessons from over two decades of hands-on AI experience—spanning early-stage startups (0-1, 1-n) to Fortune 50 giants. Having led and advised on numerous high-impact AI initiatives, we’ve curated the most valuable insights into a strategic, results-driven approach for building AI systems that truly move the needle.
+We distill lessons from over two decades of hands-on AI experience—spanning early-stage startups (0-1, 1-n) to Fortune 50 giants. Having led numerous high-impact AI initiatives, we’ve curated the most valuable insights into a strategic, results-driven approach for building AI systems that truly move the needle.
 
-This playbook serves as both a roadmap for AI adoption and a blueprint for success. It dives into the key parameters of AI readiness, addressing why AI development fundamentally differs from traditional IT/software systems—why the known playbooks for Software 1.0 fall short when building Software 2.0 (AI-driven systems).
+This playbook serves as both a roadmap for AI adoption and a blueprint for success. It dives into the key parameters of AI readiness, addressing why AI development fundamentally differs from traditional IT/software systems and why the known playbooks for Software 1.0 fall short when building Software 2.0 (AI-driven systems).
 
 Understanding these principles is crucial for AI founders, executives, CXOs, VC partners, and senior policymakers. Organizations with leaders who grasp these concepts will achieve higher AI maturity, readiness, and a distinct competitive edge.
 
@@ -86,6 +86,16 @@ It is owing to this promise, every team, organization, country is after masterin
 </details>
 
 -----------------------------------------------------------------------------------
+<!--
+<details>
+  <summary><h3>Usage Instructions</h3></summary>
+
+  [View Usage Instructions](./Docs/Introduction.md)
+
+</details>
+
+----------------------------------------------------------------------------------- -->
+
   
 
 <details>
@@ -236,13 +246,29 @@ You can connect with me here:
 -----------------------------------------------------------------------------------
 
 <details>
+  <summary><h3>Dont agree with a topic, point of view  </h3></summary>
+
+</details>
+
+-----------------------------------------------------------------------------------
+
+<details>
+  <summary><h3>You have better Example, Feedback, Suggestion or just want to start a discussion</h3></summary>
+
+Great, please head over to the [discussion]() section   
+
+</details>
+
+-----------------------------------------------------------------------------------
+
+
+<details>
   <summary><h3>Found a Typo, Spelling Mistake, or Bug</h3></summary>
 
 Despite our best efforts to eliminate errors, some typos, spelling mistakes, or bugs may still slip through.  
 If you encounter any, please log them using the [Issues tab](https://github.com/anujgupta82/AI-by-Design/issues).  
-Your feedback will help us fix them and enhance the overall quality of the book.  
 
-Thank you for your support!  
+Your feedback will help us fix them and enhance the overall quality of the book. Thank you for your support!  
 
 </details>
 
