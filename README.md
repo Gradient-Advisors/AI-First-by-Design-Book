@@ -319,7 +319,12 @@ Website: [Gradient Advisors](https://gradient-advisors.ai/)
 </details>
 
 -----------------------------------------------------------------------------------
+<details>
+      <summary><h3>License</h3></summary>
 
+[![CC BY-NC 4.0](https://licensebuttons.net/l/by-nc/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc/4.0/)
+
+</details>
 
 <!--
 **This repository contains**
