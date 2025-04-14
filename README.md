@@ -143,7 +143,7 @@ It is owing to this promise, every team, organization, country is after masterin
 
 ### <div align="center">Section 3: Processes</div>  
 - **Ch 15:** AI is Not a Sledgehammer  
-  - [Finding the Right Use Cases for AI](https://github.com/Gradient-Advisors/AI-First-by-Design-Book/blob/main/Chapters/Processes/AI-Compass%20%20A%20Framework%20for%20Identifying%20High-ROI%20AI%20Use%20Cases.pdf)
+  - [Framwwork for finding the Right Use Cases for AI](https://drive.google.com/file/d/1LH80juojBUUMsK9ujXeMVX19oLtsVaD7/view?usp=drive_link)
 - **Ch 16:** Defining the Right Metrics to Measure Success  
   - AI Metrics  
   - Business Metrics  
