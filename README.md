@@ -114,7 +114,7 @@ It is owing to this promise, every team, organization, country is after masterin
 - **Ch 4:** AI ≠ Replace Humans?  
   - AI = Augmented Intelligence rather than Artificial Intelligence  
 - **Ch 5:** The Right Methodology to Develop AI Systems  
-  - [Capability Curve for AI Systems vs IT Systems](https://github.com/Gradient-Advisors/AI-First-by-Design-Book/blob/main/Chapters/Technology/AI%20Capability%20Continuum.pdf)  
+  - [Capability Curve for AI Systems vs IT Systems](https://drive.google.com/file/d/1B6S2X9utAConHYCN871_iBFIR2xhFLIY/view?usp=drive_link)  
   - Make it Work, Make it Better  
 - **Ch 6:** AI Won’t Be Error-Free Anytime Soon  
   - Mistakes are Part and Parcel of AI Systems  
@@ -143,7 +143,7 @@ It is owing to this promise, every team, organization, country is after masterin
 
 ### <div align="center">Section 3: Processes</div>  
 - **Ch 15:** AI is Not a Sledgehammer  
-  - [Framwwork for finding the Right Use Cases for AI](https://drive.google.com/file/d/1LH80juojBUUMsK9ujXeMVX19oLtsVaD7/view?usp=drive_link)
+  - [Framework for finding most appropriate AI Use Cases](https://drive.google.com/file/d/1LH80juojBUUMsK9ujXeMVX19oLtsVaD7/view?usp=drive_link)
 - **Ch 16:** Defining the Right Metrics to Measure Success  
   - AI Metrics  
   - Business Metrics  
