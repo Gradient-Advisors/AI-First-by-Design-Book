@@ -2,7 +2,7 @@
 [![Download](https://img.shields.io/badge/download-bookmarked%20book-orange.svg)](https://github.com/janishar/mit-deep-learning-book-pdf/raw/master/complete-book-pdf/deeplearningbook.pdf)
 [![Download](https://img.shields.io/badge/download-book-brightgreen.svg)](https://github.com/janishar/mit-deep-learning-book-pdf/blob/master/complete-book-pdf/Ian%20Goodfellow%2C%20Yoshua%20Bengio%2C%20Aaron%20Courville%20-%20Deep%20Learning%20(2017%2C%20MIT).pdf)
 
-# **Why AI Systems Often Fail to Deliver ROI: A View from Trenches**
+# **Why AI Systems Often Fail to Deliver ROI : A View from Trenches**
 <!-- # **AI from Trenches : When Models Dont Meet P&L** -->
 <!-- **AI First by Design** -->
 ### Your Guide to Accelerating AI Maturity & Leading High-Performance AI Initiatives & Organizations
